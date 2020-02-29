@@ -1,0 +1,5 @@
+2020-03-01 02:03:23 INFO  Collections.App:28 - [1,2,3,4,5,6,7,8,9,10]
+2020-03-01 02:03:23 INFO  Collections.App:32 - [1,2,4,5,6,7,8,9,10]
+2020-03-01 02:03:23 INFO  Collections.App:35 - 1
+2020-03-01 02:03:23 INFO  Collections.App:36 - 2
+2020-03-01 02:03:23 INFO  Collections.App:39 - 9
